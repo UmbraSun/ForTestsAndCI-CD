@@ -1,6 +1,4 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-namespace CalculatorLibrary.Test
+namespace MSTest.Tests
 {
     [TestClass]
     public class UnitTest1
